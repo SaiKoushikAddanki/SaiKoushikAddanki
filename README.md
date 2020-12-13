@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, This is Sai Koushik Addanki
+#### Expert Java and Spring application developer capable of developing Restful web services.
+Innovative Associate Software Engineer expert in Java and Spring Technologies with a 2.8+ years of experience. Highly skilled at requirement fulfilling programming. Exceptional interpersonal, communication and multitasking abilities.
 
-<!--
-**SaiKoushikAddanki/SaiKoushikAddanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Java / Spring / Microservices / Pivotal Cloud Foundry
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Mphasis 
+- 🌱 I’m currently learning Spring Webflux, Microservices and AWS 
+- 🤔 I’m looking for help with Any latest modules of Spring and Design patterns 
+- 💬 Ask me about Spring technologies 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaiKoushikAddanki)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/koushik-addanki/)  
+

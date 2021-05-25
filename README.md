@@ -4,7 +4,7 @@ Innovative Associate Software Engineer expert in Java and Spring Technologies wi
 
 Skills: Java / Spring / Microservices / Pivotal Cloud Foundry
 
-- 🔭 I’m currently working on Mphasis 
+- 🔭 I’m currently working in EPAM Systems. 
 - 🌱 I’m currently learning Spring Webflux, Microservices and AWS 
 - 🤔 I’m looking for help with Any latest modules of Spring and Design patterns 
 - 💬 Ask me about Spring technologies 

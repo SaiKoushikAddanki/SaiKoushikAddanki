@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Sai Koushik Addanki
 #### Expert Java and Spring application developer capable of developing Restful web services.
-Innovative Associate Software Engineer expert in Java and Spring Technologies with a 3+ years of experience. Highly skilled at requirement fulfilling programming. Exceptional interpersonal, communication and multitasking abilities.
+Innovative Software Engineer expert in Java and Spring Technologies with a 3+ years of experience. Highly skilled at requirement fulfilling programming. Exceptional interpersonal, communication and multitasking abilities.
 
 Skills: Java / Spring / Microservices / Pivotal Cloud Foundry
 
